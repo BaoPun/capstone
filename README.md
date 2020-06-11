@@ -2,6 +2,11 @@
 
 ### WARNING: NOT BUILT FOR MAC USERS 
 
+
+### Overview Link 
+Here is a link to the virtual showcase where our application is featured.  You can also access a tutorial video through the website linked below.
+https://eecs.oregonstate.edu/project-showcase/projects/?id=m1kKnlTNK9X95dzd
+
 ### Running App through Visual Studio 
 **Overview:** This project was developed using visual studio, so in order to view and run the code the same way it was developed, we recommend installing visual studio 2019 as follows
 
